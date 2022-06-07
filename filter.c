@@ -13,6 +13,9 @@ Pre viac info odporucam pozriet funkciu compute_dual_code v plantri.c a guide
 (https://users.cecs.anu.edu.au/~bdm/plantri/plantri-guide.txt).
 */
 static int filter_hamiltonian(int nbtot, int nbop, int doflip){
+    // Vymazanie obsahu, ktory sa nachadza v textovom subore output.txt
+    fclose(fopen("output.txt", "w"));
+    
     unsigned char code[MAXF+MAXE+1];
     unsigned char code_edges[MAXF+MAXE+1];
 
