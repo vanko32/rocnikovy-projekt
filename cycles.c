@@ -129,7 +129,7 @@ void hamiltonian_cycle(int path[], int k, unsigned char code[], unsigned char co
 }
 
 /*
-Funkcia vypise hamiltonovsky cyklus a zaroven v poli code_edges prepise hrany, ktore 
+Funkcia vypise hamiltonovsky cyklus ktory je pre potreby lahsieho testovania ukonceny cislom -2, a zaroven v poli code_edges prepise hrany, ktore 
 sa vyskytli v hamiltonovskom cykle na 255 (kedze pracujeme s unsigned char, tak zaporne hodnoty
 pouzivat nemozeme. Zaroven s istotou vieme, ze s grafom o 255 vrcholoch pracovat nebudeme). 
 code_edges sluzi na pamatanie si toho, ake hrany sa v hamiltonovskych cykloch vyskytli. Ak sa u-v hrana 
