@@ -12,10 +12,7 @@ vygenerovaneho grafu spravit dual (dual z 3-suvisleho eulerovskej planarnej tria
 Pre viac info odporucam pozriet funkciu compute_dual_code v plantri.c a guide 
 (https://users.cecs.anu.edu.au/~bdm/plantri/plantri-guide.txt).
 */
-static int filter_hamiltonian(int nbtot, int nbop, int doflip){
-    // Vymazanie obsahu, ktory sa nachadza v textovom subore output.txt
-    fclose(fopen("output.txt", "w"));
-    
+static int filter_hamiltonian(int nbtot, int nbop, int doflip){    
     unsigned char code[MAXF+MAXE+1];
     unsigned char code_edges[MAXF+MAXE+1];
 
