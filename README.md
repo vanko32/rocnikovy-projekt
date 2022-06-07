@@ -14,7 +14,9 @@ Na skompilovanie test.c použite príkaz:
         gcc test.c cycles.c -o test
         
 Viac informácii v reporte na stránke k ročníkovému projektu:   
-http://davinci.fmph.uniba.sk/~vanko32/  
+http://davinci.fmph.uniba.sk/~vanko32/    
+Na stránke je aj dostúpna ukážka vygenerovaných 4-súvyslých bipartitných grafov. 
+
 Viac informácií ku generátoru grafov Plantri na stránke:   
 https://users.cecs.anu.edu.au/~bdm/plantri/
      
