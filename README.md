@@ -1,4 +1,4 @@
-# Ročníkový proejkt
+# Ročníkový projekt
 Hľadanie hamiltonovských a skoro hamiltonovských kružníc v kubických grafoch
 
 **Špecifikácia projektu (zimný semester):** Základným cieľom projektu je prehľadať všetky kubické planárne beztrojuholníkové grafy do 26 vrcholov a vyhľadať v nich dvojice (G, e) s vlastnosťou - žiadna hamiltonovská kružnica v G neobsahuje e (všetky planárne grafy do 26 vrcholov majú hamiltonovskú kružnicu). Na tomto výrazne zredukovanom zozname následne vykonať niekoľko podobných výpočtov (napr. nájsť takmer hamiltonovskú kružnicu vynechávajúcu daný vrchol).  
