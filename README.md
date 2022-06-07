@@ -15,7 +15,7 @@ Na skompilovanie test.c použite príkaz:
         
 Viac informácii v reporte na stránke k ročníkovému projektu:   
 http://davinci.fmph.uniba.sk/~vanko32/    
-Na stránke je aj dostúpna ukážka vygenerovaných 4-súvyslých bipartitných grafov. 
+Na stránke je aj dostúpna ukážka vygenerovaných 4-súvyslých bipartitných grafov, na ktorých sme spúštali náš algoritmus na hľadanie hamiltonovských cyklov.
 
 Viac informácií ku generátoru grafov Plantri na stránke:   
 https://users.cecs.anu.edu.au/~bdm/plantri/
